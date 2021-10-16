@@ -4,6 +4,5 @@ relative_links:
   enabled: true
   collections: true
 markdown: kramdown
-  math_engine: mathjax  # default in Kramdown
 theme: jekyll-theme-minimal
 
