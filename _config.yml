@@ -3,6 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-markdown: GFM
+markdown: kramdown
+  usemathjax: true
 theme: jekyll-theme-minimal
 
