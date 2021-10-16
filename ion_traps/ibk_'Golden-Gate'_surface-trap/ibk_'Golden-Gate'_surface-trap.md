@@ -24,6 +24,7 @@ The trap was designed by Martin van Mourik in 2018, built by Translume [3] (see 
 Cf. [ion-trap-related definitions](../definitions_ion-traps.md) for a description of the listed parameters.
 
 ### Employed materials
+
 | Material | Component | Comment |
 |----|----|----|
 | Fused silica | substrate |  |
