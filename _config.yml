@@ -4,5 +4,5 @@ relative_links:
   enabled: true
   collections: true
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
 
